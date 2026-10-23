@@ -95,7 +95,7 @@ fraud-detection-ml/
 
 The dataset is not included in this repository because of its large file size.
 
-## 👩‍💻 Author
+##  Author
 
 **Paridhi Saraf**  
 B.Tech, Computer Science and Engineering  
